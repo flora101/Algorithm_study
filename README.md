@@ -27,3 +27,31 @@
 |브론즈 1|**명령 프롬프트**|[문제](https://www.acmicpc.net/problem/1032)|✅|
 |실버 5|**나이순 정렬**|[문제](https://www.acmicpc.net/problem/10814)|✅|
 |Lv0|**연속된 수의 합**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120923)|✅|
+
+## 🎯 3주차
+|문제 이름|문제 URL|해결 상태|
+|:---|:---:|:---:|
+|**2179번 비슷한 단어**|[문제](https://www.acmicpc.net/problem/2179)||
+|**2910번 빈도정렬**|[문제](https://www.acmicpc.net/problem/2910)|✅|
+|**4358번 생태학**|[문제](https://www.acmicpc.net/problem/4358)|🔺|
+|**뉴스 클러스터링**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|✅|
+|**위장**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|✅|
+|**전화번호 목록**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|✅|
+
+
+## 🎯 4주차
+|문제 이름|문제 URL|해결 상태|
+|:---|:---:|:---:|
+|**H index**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42747)||
+|**11728번 배열 합치기**|[문제](https://www.acmicpc.net/problem/11728)||
+|**2075번 N번째 큰수**|[문제](https://www.acmicpc.net/problem/2075)||
+|**더 맵게**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|🔺|
+
+
+## 🎯 5주차
+|문제 이름|문제 URL|해결 상태|
+|:---|:---:|:---:|
+|**큰 수 만들기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42883)||
+|**구명보트**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/42885)||
+|**11497번 통나무 건너뛰기**|[문제](https://www.acmicpc.net/problem/11497)||
+|**13305번 주유소**|[문제](https://www.acmicpc.net/problem/13305)||
